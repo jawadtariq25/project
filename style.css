@@ -1,0 +1,364 @@
+.adj {
+      height: 63px;
+      width: 60px;
+}
+
+.urdu {
+      font-family: "Noto Nastaliq Urdu", serif;
+      font-optical-sizing: auto;
+      font-weight: weight;
+      font-style: normal;
+}
+
+.alig {
+      text-align: center;
+
+      font-family: "IBM Plex Sans Arabic", sans-serif;
+      font-weight: 600;
+      font-style: normal;
+}
+
+.cls {
+      display: block;
+      margin: auto;
+      background-color: #d69942;
+      padding: 7px;
+      border: 02px solid #d69942;
+
+}
+
+#stylee {
+      text-decoration: none;
+
+}
+
+.dusp {
+      display: block;
+}
+
+.gaz11 {
+      font-family: "Didot eText W01 Italic";
+      text-align: center;
+      font-size: 25px;
+}
+
+.gaz12 {
+      font-family: "Didot eText W01 Italic";
+      text-align: center;
+      font-size: 15px;
+}
+
+.fotcol {
+      background-color: gray;
+}
+
+.navcol {
+      color: white;
+}
+
+.h2 {
+      font-family: "Ubuntu", sans-serif;
+      font-style: normal;
+}
+
+.hamd {
+      background-color: black;
+      color: white;
+      direction: rtl;
+      text-align: center;
+      font-family: "IBM Plex Sans Arabic", sans-serif;
+      padding: 04px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+}
+
+.clor11 {
+      background-color: #043A8A;
+      color: white;
+      padding: 15px;
+      margin: 0;
+}
+
+.fott {
+      margin-top: 0px !important;
+}
+
+.btnn {
+      background-color: #D69942;
+      border-style: none;
+      border-radius: 4px;
+      height: 32px;
+      width: 105px;
+      padding: 04px;
+      margin-top: 50px;
+
+
+
+
+}
+
+.btn1 {
+      background-color: #D69942;
+      border-style: none;
+      border-radius: 4px;
+      height: 32px;
+      width: 90px;
+      padding: 04px;
+
+
+
+
+}
+
+
+.flx3 {
+      display: flex;
+      justify-content: center;
+
+}
+
+.menubar1 {
+      display: none;
+
+}
+
+.menubar {
+      background-color: white;
+      text-align: center;
+
+}
+
+#row {
+      position: sticky;
+      top: 0;
+      z-index: 1;
+}
+
+
+
+
+ul li {
+      list-style: none;
+
+}
+
+ul li a {
+      text-decoration: none;
+      color: #444444;
+
+}
+
+ul li {
+      margin: 15px;
+
+
+}
+
+.menubar ul {
+
+      display: flex;
+      justify-content: center;
+}
+
+ul li a:hover {
+      color: #B17F36;
+
+}
+
+.menubar ul li:hover .menubar1 {
+
+      display: block;
+      position: absolute;
+      margin-top: 10px;
+      margin-left: -50px;
+      background-color: #d8d8d8;
+      text-align: left;
+
+
+}
+
+.menubar ul li:hover .menubar1 ul {
+
+      display: block;
+      margin: 10px;
+}
+
+.menubar1 ul li a {
+
+      color: #444444;
+
+}
+
+.Submenubar1 {
+      display: none;
+}
+
+.menubar1 ul li a:hover {
+
+      color: #B17F36;
+
+}
+
+#dosrahov:hover .Submenubar1 {
+      display: block;
+      margin-left: 230px;
+      position: absolute;
+      margin-top: -38px;
+      background-color: #fcfcfc;
+}
+
+.menubar ul li {
+      margin-top: 30px;
+
+}
+
+#cr1 {
+      margin-top: 13px;
+      margin-left: 8px;
+}
+
+#ig1 {
+      margin-right: 30px;
+
+}
+
+
+
+
+.flexx {
+      display: flex;
+      height: 400px;
+      width: 100%;
+      background-color: #d69942;
+      color: white;
+      font-family: 'Questrial', sans-serif;
+}
+
+.centrrr {
+      margin-left: 500px;
+      margin-top: 10px;
+}
+
+.line1 {
+      margin-top: 50px;
+      margin-left: -250px;
+
+}
+
+.line2 {
+      margin-top: 50px;
+}
+
+.logoo {
+      margin-top: 80px;
+      margin-left: 300px;
+}
+
+.h66 {
+      margin-left: -50px;
+}
+
+.linkk {
+      text-decoration: none;
+      color: white;
+      margin-left: -28px;
+}
+
+.icon {
+      margin-top: 220px;
+      margin-left: -142px;
+}
+
+
+
+.abslo {
+      background-image: url(jamiat.jpg);
+      color: gray ;
+      background-position: cover;
+      background-repeat: no-repeat;
+      width: 30%;
+      height: 400px;
+      position: absolute;
+      margin-top: -400px;
+      font-family: 'Questrial', sans-serif;
+}
+
+.logpos {
+      margin-left: 154px;
+      margin-top: 30px;
+}
+#li1{
+     margin-left: 145px;
+     margin-top: 10px;
+     font-size: 20px;
+     font-weight: bolder;
+}
+#li2{
+      margin-left: 40px;
+      font-size: 20px;
+      font-weight: bold;
+}
+#li3{
+      margin-left: 163px;
+      font-size: 20px;
+      font-weight: bold;
+}
+.regcen {
+    margin-top: 50px;
+    margin-left: 600px;
+}
+.parac{
+background-color: #cca977;
+padding: 20px;
+margin: 30px;
+}
+.form {
+      color: #cc8e32;
+      display: flex;
+      width: 800px;
+      margin-left: 40%;
+}
+.in1{
+      display: inline-block;
+}
+.in2{
+      display: inline-block;
+}
+.in3{
+      display: inline-block;
+}
+.in4{
+      display: inline-block;
+}
+.in5{
+      display: inline-block;
+}
+.in6{
+      display: inline-block;
+}
+.in7{
+      display: inline-block;
+}
+.in8{
+      display: inline-block;
+}
+.inn{
+      display: inline-block;
+}
+.inn1{
+      display: inline-block;
+}
+.buton{
+      margin-top: 50px;
+      
+     margin-left: 160px;
+     margin-bottom: 60px;
+     
+}
+.pbut{
+      border-radius: 04px;
+      border-style: none;
+      background-color: #D69942;
+      color: white;
+}
